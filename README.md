@@ -14,8 +14,8 @@ const 👨‍💻 = {
 ```
 [![Linkedin Badge](https://img.shields.io/badge/-Marek%20Giel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marek-giel-1a12b4207/)](https://www.linkedin.com/in/marek-giel-1a12b4207/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gielmarek&show_icons=true&theme=cobaltk&hide=stars,contribs&include_all_commits=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=gielmarek&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=cobalt&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gielmarek&show_icons=true&theme=algolia&hide=stars,contribs&include_all_commits=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gielmarek&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=algolia&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gielmarek&theme=dark&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
