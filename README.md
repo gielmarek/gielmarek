@@ -6,9 +6,9 @@
 const 👨‍💻 = {
   name: "Marek",
   surname: "Giel",
-  code: [Python],
+  code: [Python, "Jupyter Notebook", Bash],
   libraries: [NumPy, Pandas, Matplotlib, Seaborn, Cufflinks],
-  education: Management in Economics,
+  education: "Management in Economics",
   hobbies: [Travel, Music, Swimming, Volleyball],
 };
 ```
